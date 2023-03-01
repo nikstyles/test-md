@@ -34,34 +34,9 @@ Join us in our mission to give every animal a loving and caring home.
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" /> -->
 
-<!-- ![Logo](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
-![Logo](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only) -->
-
 ## Frontend
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redux toolkit](./1x/logo_redux_toolkit.png) ![Redux toolkit](./1x/logo_axios.png)
-
-<img align="left" alt="Visual Studio Code" height="28px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="padding-left: 4px; padding-bottom: 4px;" /> 
-<img align="left" alt="HTML5" height="28px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="padding-left: 4px;" /> 
-<img align="left" alt="SASS" height="28px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" style="padding-left: 4px;" /> 
-<img align="left" alt="JavaScript" height="28px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="padding: 2px;" /> 
-<img align="left" alt="React" height="28px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="padding: 2px;" /> 
-<img align="left" alt="Redux" height="28px" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" style="padding: 2px;" /> 
-<img align="left" alt="Redux toolkit" height="28px" src="./logo_redux_toolkit.svg" style="padding: 2px;" /> 
-<img align="left" alt="Axios" height="28px" src="./logo_axios.svg" style="padding: 2px;" /> 
-<img align="left" alt="Chakra" height="28px" src="./logo_chakra.svg" style="padding: 2px;" /> 
-<img align="left" alt="date-fns" height="28px" src="./logo_date-fns.svg" style="padding:2px;" /> 
-<img align="left" alt="dotenv" height="28px" src="./logo_dotenv.svg" style="padding: 2px;" /> 
-<img align="left" alt="formik" height="28px" src="./logo_formik.svg" style="padding: 2px;" /> 
-<img align="left" alt="luxon" height="28px" src="./logo_luxon.svg" style="padding: 2px;" /> 
-<img align="left" alt="nanoid" height="28px" src="./logo_nanoid.svg" style="padding: 2px;" /> 
-<img align="left" alt="notiflix" height="28px" src="./logo_notiflix.svg" style="padding: 2px;" /> 
-<img align="left" alt="Vercel" height="28px" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" style="padding: 2px;" />
-
-</br>
-</br>
-</br>
-</br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redux toolkit](./1x/logo_redux_toolkit.png) ![Redux persist](./1x/logo_persist.png) ![Axios](./1x/logo_axios.png) ![Chakra](./1x/logo_chakra.png) ![date-fns](./1x/logo_date-fns.png) ![dotenv](./1x/logo_dotenv.png) ![formik](./1x/logo_formik.png) ![luxon](./1x/logo_luxon.png) ![nanoid](./1x/logo_nanoid.png) ![notiflix](./1x/logo_notiflix.png) ![flatpickr](./1x/logo_flatpickr.png) ![loader_spinner](./1x/logo_loader-spinner.png) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <!-- - react-icons (нужно удалить, не используется)
 - svgo (возможно нужно удалить, не используется) -->

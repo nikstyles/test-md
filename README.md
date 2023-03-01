@@ -10,6 +10,7 @@
 ## Petly
 
 [![Homepage](/Home_min.jpg "Petly")](https://team-project-pet-support.vercel.app/)
+
 [Live site](https://team-project-pet-support.vercel.app/)
 
 Welcome to our online platform that offers a variety of animals for sale or adoption, completely free of charge. We are dedicated to providing a safe and loving home for every animal in need and our mission is to match these animals with their perfect forever homes.

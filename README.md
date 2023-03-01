@@ -9,9 +9,7 @@
 
 ## Petly
 
-<!-- [![Homepage](/Home.jpg "Petly")](https://team-project-pet-support.vercel.app/) -->
-<img src="/Home.jpg" width="500"  />
-
+[![Homepage](/Home_min.jpg "Petly")](https://team-project-pet-support.vercel.app/)
 [Live site](https://team-project-pet-support.vercel.app/)
 
 Welcome to our online platform that offers a variety of animals for sale or adoption, completely free of charge. We are dedicated to providing a safe and loving home for every animal in need and our mission is to match these animals with their perfect forever homes.
@@ -45,23 +43,48 @@ Join us in our mission to give every animal a loving and caring home.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+<!-- - jimp/types
+- sendgrid/mail
+- bcrypt
+- cloudinary
+- cors
+- cross-env
+- datauri
+- dotenv
+- express
+- gravatar
+- jimp
+- joi
+- jsonwebtoken
+- mongoose
+- morgan
+- multer
+- nanoid
+- passport
+- passport-facebook
+- passport-google-oauth2
+- supertest
+- swagger-ui-express
+- ws
+- yarn -->
+
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
 ## Members:
 
 ##### Frontend
 
-- Галина Ворох (Scrum Master)
-- Дмитро Заєць
-- Тарас Перчик
-- Євген Грабар
-- Катерина Бикова
-- Микита Ковпак
-- Олена Головіна
-- Анна Касьяненко
+- Galina Vorokh (Scrum Master)
+- Dmytro Zayets
+- Taras Perchyk
+- Evgen Grabar
+- Katerina Bykova
+- Mykyta Kovpak
+- Olena Holovina
+- Anna Kasianenko
 
 ##### Backend
 
-- Христина Варчук (Team Leader)
-- Максим Дзюбанчук
-- Сергій Кудрявцев
+- Krystyna Varchuk (Team Leader)
+- Maxim Dziubanchuk
+- Sergiy Kudryavtsev

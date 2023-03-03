@@ -31,6 +31,7 @@ Join us in our mission to give every animal a loving and caring home.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![sendgrid](./backend/logo_sendgrid.png) ![bcrypt](./backend/logo_bcrypt.png) ![cloudinary](./backend/logo_cloudinary.png) ![dotenv](./backend/logo_dotenv.png) ![express](./backend/logo_express.png) ![jimp](./backend/logo_jimp.png) ![joi](./backend/logo_joi.png) ![jsonwebtoken](./backend/logo_jsonwebtoken.png) ![mongoose](./backend/logo_mongoose.png) ![nanoid](./backend/logo_nanoid.png) ![gravatar](./backend/logo_gravatar.png) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 [GitHub](https://github.com/Yevhenii3145/backend-team-project-pet-support)
+
 [Swagger](https://backend-team-project-pet-support.onrender.com/api-docs/)
 
 ## Members:

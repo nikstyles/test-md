@@ -38,11 +38,11 @@ Join us in our mission to give every animal a loving and caring home.
 
 ##### Frontend
 
-- Galina Vorokh (Scrum Master)
+- Halyna Vorokh (Scrum Master)
 - Dmytro Zayets
 - Taras Perchyk
 - Evgen Grabar
-- Katerina Bykova
+- Kateryna Bykova
 - Mykyta Kovpak
 - Olena Holovina
 - Anna Kasianenko
@@ -50,5 +50,5 @@ Join us in our mission to give every animal a loving and caring home.
 ##### Backend
 
 - Krystyna Varchuk (Team Leader)
-- Maxim Dziubanchuk
+- Maksym Dziubanchuk
 - Sergiy Kudryavtsev
